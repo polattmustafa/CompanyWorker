@@ -1,0 +1,4 @@
+com\example\companyworker\CompanyworkerApplication.class
+com\example\companyworker\model\BaseModel.class
+com\example\companyworker\model\WorkerModel.class
+com\example\companyworker\model\CompanyModel.class
